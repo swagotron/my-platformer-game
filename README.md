@@ -7,6 +7,6 @@ Your goal in swagotrons cool guy adventure is to get to the door at the end of e
 right arrow moves right, left arrow moves left, pressing up makes you jump. Jumping on an enemy will kill them, but getting hit by an enemy will kill you!
 
 ## Screenshots
-![Title screen](https://github.com/swagotron/my-platformer-game/blob/main/Screenschots/startscreen.png)
+![Title screen](https://raw.githubusercontent.com/swagotron/my-platformer-game/main/Screenschots/startscreen.png)
 
-![Play screen](https://github.com/swagotron/my-platformer-game/blob/main/Screenschots/game.PNG)
+![Play screen](https://raw.githubusercontent.com/swagotron/my-platformer-game/main/Screenschots/game.PNG)
